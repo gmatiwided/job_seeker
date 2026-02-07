@@ -1,0 +1,23 @@
+Amina Ben Youssef
+amina.byoussef@gmail.com | +216 50 123 456 | Tunisia
+https://www.linkedin.com/in/amina-ben-youssef-1234567890/ | https://github.com/amina-ben-youssef
+
+[Date: Today's date]
+
+Hiring Manager
+DataCo Tunisia
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Junior Data Scientist position at DataCo Tunisia. With two years of hands-on experience in machine learning, predictive modeling, and data visualization, complemented by a Master's degree in Data Science, I am confident I possess the skills to contribute immediately to your team's objectives in business optimization and insight generation.
+
+My professional journey at SmartLogix, a logistics technology startup, provided me with practical experience directly relevant to this role. There, I developed a predictive delivery-time model that significantly improved route efficiency, reducing average operational delays by 12%. I also built interactive dashboards that empowered operations managers to identify bottlenecks and optimize resource allocation, directly aligning with your need for creating impactful reports and analyses.
+
+I am proficient in Python (including pandas and scikit-learn), SQL (PostgreSQL), and various machine learning techniques such as Regression, Classification, and Clustering. My data visualization skills, particularly with Tableau, are well-honed, allowing me to translate complex data into clear, actionable insights. This technical foundation, combined with my strong analytical thinking and collaborative approach, positions me to excel in building ML models and analyzing data to drive strategic business decisions for DataCo.
+
+I am particularly excited about the opportunity to apply my expertise in a dynamic environment focused on business optimization. My passion for expanding my knowledge in machine learning pipelines and real-time data analytics aligns perfectly with the growth trajectory of a company like DataCo. I am eager to leverage my skills to build scalable data solutions and contribute to a team that values data-driven innovation.
+
+Thank you for considering my application. I am enthusiastic about the possibility of discussing how my experience and skills can benefit DataCo Tunisia. I have attached my resume for your review and welcome the opportunity for an interview.
+
+Sincerely,
+Amina Ben Youssef

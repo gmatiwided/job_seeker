@@ -1,0 +1,14 @@
+
+Junior Data Scientist
+DataCo Tunisia
+
+Requirements:
+- 2+ years experience with Python, SQL, Machine Learning
+- Experience building predictive models
+- Data visualization skills (Tableau preferred)
+- Bachelor's degree in related field
+
+Responsibilities:
+- Build ML models for business optimization
+- Create dashboards and reports
+- Analyze data to drive insights

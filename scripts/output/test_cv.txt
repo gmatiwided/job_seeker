@@ -1,0 +1,54 @@
+
+# CURRICULUM VITAE
+
+## PERSONAL INFORMATION
+**Name:** Amina Ben Youssef
+**Email:** amina.byoussef@gmail.com
+**Phone:** +216 50 123 456
+**Location:** Tunisia
+**LinkedIn:** https://www.linkedin.com/in/amina-ben-youssef-1234567890/
+**GitHub:** https://github.com/amina-ben-youssef
+
+**Professional Headline:** Junior Data Scientist | Machine Learning & Predictive Analytics | Driving Insights from Complex Data Sets
+
+## PROFESSIONAL SUMMARY
+I am a junior data scientist based in Tunisia, bringing two years of experience transforming raw data into actionable insights for business decision-making. Specializing in machine learning, predictive modeling, and data visualization, Amina combines analytical rigor with curiosity-driven problem solving. She thrives in collaborative environments where data informs strategy and innovation. Passionate about turning data into impactful narratives, she helps teams understand trends, identify opportunities, and make evidence-based decisions.
+
+
+## AREAS OF EXPERTISE
+- Machine learning and predictive modeling
+- Data cleaning, transformation, and feature engineering
+- Statistical analysis and hypothesis testing
+- Data visualization and dashboard creation
+- Exploratory data analysis (EDA)
+- Business intelligence and insight translation
+
+## WORK EXPERIENCE
+I began my career as a data analyst intern at InnovData Solutions, a Tunisian analytics startup, where she supported small business clients in creating dashboards, cleaning datasets, and running exploratory analyses. Her work demonstrated strong attention to detail and an aptitude for identifying patterns in structured and unstructured data. After completing her master’s degree in Data Science from Université de Tunis, she joined SmartLogix, a logistics technology startup, as a junior data scientist. There, she contributed to developing predictive models for delivery times, optimizing route planning, and reducing operational inefficiencies. She collaborated closely with engineers, product managers, and operations teams to translate model outputs into actionable insights, improving client satisfaction and operational KPIs. Her professional journey reflects a steady growth from foundational data handling and reporting to hands-on involvement in machine learning pipelines, feature engineering, and business-oriented analytics.
+
+
+## TECHNICAL SKILLS
+
+**Programming:**
+Python (pandas, scikit-learn, matplotlib, seaborn), R
+
+**Databases Querying:**
+SQL, PostgreSQL
+
+**Workflow Collaboration:**
+Git, Jupyter Notebooks, Agile methodologies
+
+**Visualization:**
+Tableau, Power BI, Plotly
+
+**Machine Learning:**
+Regression, Classification, Clustering, Decision Trees
+
+## KEY ACHIEVEMENTS
+- Developed a predictive delivery-time model at SmartLogix that improved route efficiency, reducing average delays by 12%
+- Built interactive dashboards that helped operations managers identify bottlenecks and optimize resource allocation
+- Automated data cleaning workflows for multiple client datasets, saving over 20 hours of manual work per month
+- Presented insights from logistic datasets to leadership, influencing key operational decisions
+
+---
+*CV tailored for the position based on job requirements*

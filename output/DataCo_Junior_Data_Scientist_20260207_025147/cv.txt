@@ -1,0 +1,41 @@
+Amina Ben Youssef
+Junior Data Scientist
+Tunisia | amina.byoussef@gmail.com | +216 50 123 456 | https://www.linkedin.com/in/amina-ben-youssef-1234567890/ | https://github.com/amina-ben-youssef
+
+PROFESSIONAL SUMMARY
+- Junior Data Scientist with two years of experience specializing in machine learning, predictive modeling, and data visualization to transform raw data into actionable business insights.
+- Proficient in Python, SQL, and Tableau, with a proven track record of building predictive models and creating interactive dashboards for operational efficiency.
+- Eager to contribute to scalable data solutions and drive business optimization through data analysis.
+
+SKILLS
+Programming
+- Python (pandas, scikit-learn, matplotlib, seaborn), R
+Machine Learning
+- Regression, Classification, Clustering, Decision Trees
+Databases & Querying
+- SQL, PostgreSQL
+Visualization
+- Tableau, Power BI, Plotly
+Workflow & Collaboration
+- Git, Jupyter Notebooks, Agile methodologies
+Areas of Expertise
+- Machine learning and predictive modeling, Data cleaning, transformation, and feature engineering, Statistical analysis and hypothesis testing, Data visualization and dashboard creation, Exploratory data analysis (EDA), Business intelligence and insight translation
+
+PROFESSIONAL EXPERIENCE
+Junior Data Scientist - SmartLogix
+Tunisia
+- Developed a predictive delivery-time model that improved route efficiency, reducing average delays by 12%.
+- Contributed to developing predictive models for delivery times and optimizing route planning.
+- Collaborated closely with engineers, product managers, and operations teams to translate model outputs into actionable insights, improving client satisfaction and operational KPIs.
+- Presented insights from logistic datasets to leadership, influencing key operational decisions.
+
+Data Analyst Intern - InnovData Solutions
+Tunisia
+- Built interactive dashboards that helped operations managers identify bottlenecks and optimize resource allocation.
+- Automated data cleaning workflows for multiple client datasets, saving over 20 hours of manual work per month.
+- Supported small business clients in creating dashboards, cleaning datasets, and running exploratory analyses.
+- Demonstrated strong attention to detail and identified patterns in structured and unstructured data.
+
+EDUCATION
+Master's Degree - Data Science
+Université de Tunis | Tunisia
